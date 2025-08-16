@@ -1,5 +1,5 @@
 
-                                                                                               # **Hello, Friend** 👋 
+ # **Hello, Friend** 👋                                               
 
 <div align="center">
   <img src="https://media.discordapp.net/attachments/1275329778764746753/1406055561455468755/standard.gif?ex=68a112c9&is=689fc149&hm=a71e7400fce84ede7d66b8f7f7907c6af4fb7a75fa88a06c7f8c49f13c022510&=" alt="Animated robot programming" width="400">
