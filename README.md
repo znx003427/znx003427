@@ -1,10 +1,9 @@
 ## Hi there 👋
 <div align="center">
-  <img src="https://i.imgur.com/G2a60Nn.gif" alt="GIF animado de um robô programando" width="400">
+  <img src="https://media.discordapp.net/attachments/1275329778764746753/1406055561455468755/standard.gif?ex=68a112c9&is=689fc149&hm=a71e7400fce84ede7d66b8f7f7907c6af4fb7a75fa88a06c7f8c49f13c022510&=" alt="GIF animado de um robô programando" width="400">
 
-  <a href="https://github.com/Znx">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Znx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Znx&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/znx003427">
+   
   </a>
 </div>
 
