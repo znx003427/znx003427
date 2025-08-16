@@ -12,7 +12,7 @@
 ### Olá, sou o **Znx**! 👋
 
 <div style="display: flex; align-items: center;">
-  <img src="https://i.imgur.com/your-logo.png" alt="Logo de Znx" width="50" style="margin-right: 15px;">
+  <img src="https://media.discordapp.net/attachments/1275329778764746753/1406065863877984326/standard1.gif?ex=68a11c61&is=689fcae1&hm=88892acb55fd41722cebf81660f35323a4ed2668ef6d347b3c0d33a95ad23f70&=" alt="Logo de Znx" width="50" style="margin-right: 15px;">
   <span>Apaixonado por tecnologia e focado em criar soluções incríveis. No momento, estou imerso na criação de novos projetos e no aprimoramento das minhas habilidades.</span>
 </div>
 
