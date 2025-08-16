@@ -1,7 +1,7 @@
 # Hello, Friend 👋 
 
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/1275329778764746753/1406055561455468755/standard.gif" alt="Animated robot programming" width="400">
+  <img src="https://media.discordapp.net/attachments/1275329778764746753/1406055561455468755/standard.gif?ex=68a112c9&is=689fc149&hm=a71e7400fce84ede7d66b8f7f7907c6af4fb7a75fa88a06c7f8c49f13c022510&=" alt="Animated robot programming" width="400">
 </div>
 
 ---
@@ -37,7 +37,7 @@
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://discord.gg/seu-link-de-convite" target="_blank">
+  <a href="https//discord.gg/WEN5x3sa" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://www.instagram.com/seu-perfil/" target="_blank">
@@ -50,12 +50,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=znx003427&label=Profile%20views&color=0e75b6&style=flat" alt="znx003427" />
-</div>
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-</div>
+
 <!--
 **znx003427/znx003427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
