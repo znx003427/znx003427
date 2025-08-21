@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 <div style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://media.discordapp.net/attachments/1275329778764746753/1406065863877984326/standard1.gif" alt="Znx Logo" width="50" style="margin-right: 15px;">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/ec18fe47393655.5878dc40e26b6.gif" alt="Znx Logo" width="50" style="margin-right: 15px;">
   <p>I'm <strong>Znx</strong>, a technology enthusiast focused on creating amazing solutions. Currently immersed in developing new projects and improving my skills.</p>
 </div>
 
